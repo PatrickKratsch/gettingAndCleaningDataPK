@@ -15,7 +15,7 @@ test_data_full is created by combining X_test.txt, y_test.txt, and subject_test.
 
 grepl() is used to extract all features containing the word 'mean' or 'std' somewhere in them. The indices of their occurences are then used to extract them from merged_data_set, and the dataset merged_data_set_mean_std is created.
 
-## 4. 3. Use descriptive activity names to name the activities in the data set
+## 4. Use descriptive activity names to name the activities in the data set
 
 The second column of merged_data_set_mean_std is converted into character format, and then gsub() is used to exchange the numbers 1-6 with the respective activity, as described in activity_labels.txt.
 
