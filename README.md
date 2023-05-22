@@ -1,5 +1,5 @@
 # gettingAndCleaningDataPK
-Final project of course 3 of the Data Science Specialisation on Coursera
+Final project of course 3 of the Data Science Specialisation on Coursera - first attempt
 
 Description of Script
 
